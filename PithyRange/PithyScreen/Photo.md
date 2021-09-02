@@ -19,7 +19,6 @@
 ### Prepare SHT31 sensor
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%201.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%202.jpeg">
-<img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%203.jpeg">
 
 ### Prepare PIR sensor (Plus model only)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20PIR%201.jpeg">
@@ -28,13 +27,14 @@
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20Micro%201.jpeg">
 
 ### Superglue 8mm hex spacer
-### Superglude USB power board (if using desk stand)
+### Superglue USB power board (if using desk stand)
 
 ## PCB Assembly
 Trim protruding pins after each step.
 
 ### Solder headers for Neopixels (not the actual Neopixels)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%201.jpeg">
+Use Neopixels to ensure the pins are spaced correctly
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%202.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%203.jpeg">
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Neopixel%204.jpeg">
@@ -45,12 +45,15 @@ Trim protruding pins after each step.
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20Basics%203.jpeg">
 
 ### Solder SHT31 sensor
+<img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/C%20SHT%203.jpeg">
+
 ### Solder rear JST sockets (if using PIR and/or USB power board)
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20JST%201.jpeg">
 
 ### Solder Neopixels
-### Solder D1 Mini
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%201.jpeg">
+### Solder D1 Mini
+Make sure to leave room to plug in the micro usb port
 <img src="https://raw.githubusercontent.com//ioios-io/assembly/main/assets/S%20D1%202.jpeg">
 
 ### Solder USB plug (if using direct mount)
